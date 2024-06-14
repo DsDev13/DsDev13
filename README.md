@@ -24,7 +24,6 @@ Contato
 <a href="https://www.linkedin.com/in/diogopsoares" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-(https://github.com/DsDev13/DsDev13/blob/output/github-contribution-grid-snake.svg)
-
+![snake animation](https://github.com/DsDev13/DsDev13/blob/output/github-contribution-grid-snake2.svg)
 
 
