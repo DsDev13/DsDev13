@@ -8,7 +8,9 @@ No momento sou estudante de Engenharia da Computação e sou um profissional em 
 Estudo na Univesp e no momento estou aprendendo além de toda carga teórica algumas linguagens que estou testando e colocando alguns projetos aqui
 
 As principais tecnologias no momento são
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" />
 
 Status
 <div>
@@ -22,7 +24,7 @@ Contato
 <a href="https://www.linkedin.com/in/diogopsoares" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/DsDev13/DsDev13/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/DsDev13/DsDev13/blob/output/github-contribution-grid-snake.svg)
 
 
 
