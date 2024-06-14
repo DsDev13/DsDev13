@@ -2,9 +2,9 @@ Olá "Mundo" :grin:
 
 Seja bem vindo ao meu perfil do GitHub :flags:
 
-Meu nome é Diogo
+Meu nome é Diogo ✌️
 
-No momento sou estudante de Engenharia da Computação e sou um profissional em transição de carreira 
+No momento sou estudante de Engenharia da Computação e sou um profissional em transição de carreira :office:
 Estudo na Univesp e no momento estou aprendendo além de toda carga teórica algumas linguagens que estou testando e colocando alguns projetos aqui
 
 As principais tecnologias no momento são
@@ -24,6 +24,5 @@ Contato
 <a href="https://www.linkedin.com/in/diogopsoares" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![snake animation](https://github.com/DsDev13/DsDev13/blob/output/github-contribution-grid-snake2.svg)
 
 
